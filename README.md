@@ -31,6 +31,3 @@ https://sps.northwestern.edu/
 
 2. Mars4Me:
 https://www.mars4.me/
-
-3. Alternative.me:
-https://alternative.me/crypto/fear-and-greed-index/
