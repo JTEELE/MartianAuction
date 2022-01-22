@@ -21,12 +21,16 @@
 <img src="Images/Mars3.jfif" align="right" width="200px"/>
 <br clear="center"/>
 
+>### What's really happening here?
+> [Mars4Me](https://www.mars4.me/): WORLD'S FIRST MARS LAND NFTs - while the world is excited about the colonization of Mars, you have a unique opportunity to own and earn passive incomes from your Land NFT on the Mars4 Metaverse.
+
+
 ## Resources:
 1. Northwestern NPS:
 https://sps.northwestern.edu/
 
-2. Zignaly:
-https://zignaly.com/crypto-knowledge-base/crypto-fear-and-greed-index/#:~:text=A%20Bitcoin%20fear%20and%20greed%20index%2C%20created%20by,when%20investors%20may%20be%20too%20greedy%20or%20fearful.
+2. Mars4Me:
+https://www.mars4.me/
 
 3. Alternative.me:
 https://alternative.me/crypto/fear-and-greed-index/
