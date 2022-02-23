@@ -26,8 +26,5 @@
 
 
 ## Resources:
-1. Northwestern NPS:
-https://sps.northwestern.edu/
-
-2. Mars4Me:
+1. Mars4Me:
 https://www.mars4.me/
